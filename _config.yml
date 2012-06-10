@@ -4,10 +4,10 @@
 
 url: http://nickdirienzo.github.com
 title: Nick DiRienzo
-subtitle: Just a place to put my thoughts.
-author: Your Name
+subtitle: 
+author: Nick DiRienzo
 simple_search: http://google.com/search
-description:
+description: Thoughts on programming, life, education, and whatever else I find interesting.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
