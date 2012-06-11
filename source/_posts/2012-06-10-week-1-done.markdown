@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Week 1: Done"
+date: 2012-06-10 17:11
+comments: true
+categories: [FEP, Google, Food]
+---
+I started Tuesday, and tomorrow starts up a brand new work week. I wanted to write a little about what I did, and some of my thoughts going through an average day of a first year intern at Google. Unfortunately, I don't have any pictures. Maybe I'll start taking them soon. 
+
+So, I already have a post about orientation. That was Tuesday. Summarizing: food, [Samsung Series 5 Chromebook](http://www.google.com/intl/en/chrome/devices/chromebook-samsung-550.html) (wasn't mentioned originally), Google schwag, more food, and an awesome day. 
+
+The following days were getting acquainted with Google's internal tools, and learning about the company. I guess that's how it works at most other companies. I'm not sure, since this is my first exposure to the "real world". I learned about Google's technologies, and business. It is really humbling to sit in a room packed with interns from not only Mountain View, but other offices as well. 
+
+As a FEP intern, I have two co-host engineers. They are very talented, and very passionate about the product they are working on. 
+
+That's a really cool thing about this company. It mothers a bunch of mini-startups. At a startup, the people are really passionate about the product, and how it will change the industry. At Google, it's the same thing. You have a handful of engineers working on a specific project, and you have managers and execs. One of my hosts said that every one on the team is a visionary, and every one can have an impact on the product. That was said at the end of the day Thursday.
+
+I was really excited for Friday. I had a class where an engineer gave us the dos and don'ts for coding at Google. Then, I had lunch with the other FEP interns and our awesome recruiter. By the time lunch was over, it was 1, which meant that there was only three more hours until [TGIF](http://www.google.com/about/company/facts/culture/)! I worked on more labs to better understand Google's developer workflow and internal tools, and then it was time to put the Noogler beanie on and head to Building 40.
+
+Okay, I can't really talk about TGIF. However, it's awesome. 
+
+After TGIF, the other FEP interns and I left to start our weekend. We played Ultimate (of course), and I met a SWE intern. He's doing some pretty cool stuff. 
+
+As for the weekend, I expanded my culinary culture thanks to my friends. I had Thai and Indian foods for the first time ever, and they were excellent meals. I had Thai at [Siam Fine Thai Cuisine](http://www.yelp.com/biz/siam-fine-thai-cuisine-san-jose) with the FEP interns, and I had Indian the following night at [Mezbaan Bar and Indian Cuisine](http://www.yelp.com/biz/mezbaan-santa-clara) with a roommate and his friend. I recommend both of these places.
+
+With that I think my week (and weekend) was summed up. Feel free to start a discussion below. Cheers.
