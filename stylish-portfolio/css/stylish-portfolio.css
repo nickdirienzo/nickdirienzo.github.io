@@ -177,13 +177,12 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding-top: 50px;
 }
 
 /* Services */
 
 .services {
-    padding: 50px 0;
     background-color: white;
     color: #333;
 }
