@@ -15,7 +15,16 @@ ul.content {
   padding-left: 1em;
 }
 
-h4.company-name {
+h4.company-header {
   margin-top: 0;
   text-align: left;
+}
+
+.work-experience {
+  background-color: white;
+  color: #333;
+}
+
+div.company {
+    margin: 30px 0;
 }
