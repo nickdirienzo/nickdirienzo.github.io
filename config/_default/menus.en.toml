@@ -15,10 +15,11 @@
   pageRef = "about"
   weight = 5
 
-[[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
+# TODO: write a blog post then uncomment this.
+# [[main]]
+#   name = "Blog"
+#   pageRef = "posts"
+#   weight = 10
 
 [[main]]
   name = "Categories"
