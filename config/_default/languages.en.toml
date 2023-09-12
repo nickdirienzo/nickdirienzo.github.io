@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Nick DiRienzo"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[author]
+  name = "Nick DiRienzo"
+  image = "img/profile.jpg"
+  headline = "DEE-ree-EN-zoh"
+  # bio = "A little bit about you"
+  links = [
+    { github = "https://github.com/nickdirienzo" },
+    { linkedin = "https://linkedin.com/in/nickdirienzo" },
+    { medium = "https://medium.com/@nickdirienzo" },
+    { twitter = "https://twitter.com/nickdirienzo" },
+  ]
