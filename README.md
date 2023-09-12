@@ -1,5 +1,5 @@
 ## Updating the theme
 
 ```
-git submodule update --remote --merge
+hugo mod get -u
 ```
